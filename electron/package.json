@@ -4,7 +4,7 @@
   "description": "Sistema de consumo inteligente baseado em modelos preditivos para economia de energia residencial.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "electron ."
   },
   "repository": {
     "type": "git",

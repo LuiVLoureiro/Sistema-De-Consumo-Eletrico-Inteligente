@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/LuiVLoureiro/Sistema-De-Consumo-Eletrico-Inteligente/issues"
   },
-  "homepage": "https://github.com/LuiVLoureiro/Sistema-De-Consumo-Eletrico-Inteligente#readme"
+  "homepage": "https://github.com/LuiVLoureiro/Sistema-De-Consumo-Eletrico-Inteligente#readme",
+  "devDependencies": {
+    "electron": "^29.1.5"
+  }
 }

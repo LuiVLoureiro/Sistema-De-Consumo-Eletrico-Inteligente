@@ -1,0 +1,22 @@
+{
+  "name": "projeto-sistema-de-consumo-eletrico-inteligente",
+  "version": "1.0.0",
+  "description": "Sistema de consumo inteligente baseado em modelos preditivos para economia de energia residencial.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuiVLoureiro/Sistema-De-Consumo-Eletrico-Inteligente.git"
+  },
+  "keywords": [
+    "SistemaConsumoInteligente"
+  ],
+  "author": "https://github.com/LuiVLoureiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuiVLoureiro/Sistema-De-Consumo-Eletrico-Inteligente/issues"
+  },
+  "homepage": "https://github.com/LuiVLoureiro/Sistema-De-Consumo-Eletrico-Inteligente#readme"
+}
